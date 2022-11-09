@@ -1,46 +1,33 @@
+
+
 {
-	"passengers": [
+	"products": [
 	  {
 	    "id": 1,
-	    "fullname": "Steve",
-	    "checkedIn": true,
-	    "checkInDate": 1490742000000,
-	    "children": null
+	    "name": "Autographed picture of the Black Rifle Coffee CEO",
+	    "price": 69,
+	    "productImage": "https://lh5.googleusercontent.com/wtDyETV2XZBpRjpExK4oLAIoYcCP6AUTGL7Id0dycl8v3oFwaLR9Ei0FDqcxiVFdy2A=w2400",
+	    "preview": "Be you Be Andy",
+	    "description": ""
+	   
 	  },
 	  {
-	    "id": 2,
-	    "fullname": "Rose",
-	    "checkedIn": false,
-	    "checkInDate": null,
-	    "children": [
-	      {
-		"name": "Ted",
-		"age": 12
+		"id": 2,
+		"name": "JT's Fat Clothes ",
+		"price": 42,
+		"productImage": "https://lh6.googleusercontent.com/SggSfdd2rTlel_3s_04aUogHmVoH_TrvZB2d3cziNY2cxgWBdZiqthJIc-98Lawd1kc=w2400",
+		"preview": "Buy Now before he gets fat again", 
+		"description": ""
+		
 	      },
 	      {
-		"name": "Chloe",
-		"age": 7
+		"id": 3,
+		"name": "Starship Troopers: The Logan Stark Reboot",
+		"price": 20,
+		"productImage": "https://lh4.googleusercontent.com/u-cT25TQi2tXKzAloPPxWi-bMkDjDlZFhB0OhwPo_qssY1cPpx9zXQWLKm8a3AQAeQQ=w2400",
+		"preview": "Would you like to know more", 
+		"description": "Coming soon from a guy who has nothing left of his ipo money. It’s Logan’s Stark’s "
 	      }
-	    ]
-	  },
-	  {
-	    "id": 4,
-	    "fullname": "Louise",
-	    "checkedIn": true,
-	    "checkInDate": 1488412800000,
-	    "children": [
-	      {
-		"name": "Jessica",
-		"age": 1
-	      }
-	    ]
-	  },
-	  {
-	    "id": 5,
-	    "fullname": "Tina",
-	    "checkedIn": false,
-	    "checkInDate": null,
-	    "children": null
-	  }
+	
 	]
       }
