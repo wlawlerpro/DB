@@ -3,7 +3,7 @@
 {
 	"products": [
 	  {
-	    "id": 3,
+	    "id": 1,
 	    "name": "Autographed picture of the Black Rifle Coffee CEO",
 	    "price": 69,
 	    "productImage": "https://lh5.googleusercontent.com/wtDyETV2XZBpRjpExK4oLAIoYcCP6AUTGL7Id0dycl8v3oFwaLR9Ei0FDqcxiVFdy2A=w2400",
@@ -21,7 +21,7 @@
 		
 	      },
 	      {
-		"id": 1,
+		"id": 3,
 		"name": "Starship Troopers: The Logan Stark Reboot",
 		"price": 20,
 		"productImage": "https://lh4.googleusercontent.com/u-cT25TQi2tXKzAloPPxWi-bMkDjDlZFhB0OhwPo_qssY1cPpx9zXQWLKm8a3AQAeQQ=w2400",
