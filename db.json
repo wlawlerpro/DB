@@ -12,26 +12,27 @@
      ["Are you feeling lonely? Are you sad? Fear not, because coming soon to your desk is your own autographed picture of the Black Rifle Coffee CEO, Andy Stumpf.", 
       "Aimed at brightening your day, this stallion of a coffee roaster and wine somelier, will warm your heart as you gaze longingly into his eyes. For the low",
       "low price of $69.69, you too can be on your way to stop being such a bitch. There's no time to waste, get your piece of this dick drawing davinci today!"]
-	  },
-	  {
-	    "id": 2,
-            "name": "JT's Fat Clothes ",
-            "price": 34,
-	    "productImage": "https://lh6.googleusercontent.com/SggSfdd2rTlel_3s_04aUogHmVoH_TrvZB2d3cziNY2cxgWBdZiqthJIc-98Lawd1kc=w2400",
-	    "preview": "The newest clothing line by Black Rifle", 
-	    "description":["Fresh of of losing the equivilent of a whole person, Jarred Taylor", 
-	    "is proud to present his newest clothing line series. JT's Fat Clothes is expression of sloth, gluttuny, and being the life of the party",
-	     "Can you eat a fourth serving"," Did someone just challenge you to chug a bottle of mustard"," Don't wait dress for the job you want today!"]
+     },
+     {
+      "id": 2,
+      "name": "JT's Fat Clothes ",
+      "price": 34,
+      "productImage": "https://lh6.googleusercontent.com/SggSfdd2rTlel_3s_04aUogHmVoH_TrvZB2d3cziNY2cxgWBdZiqthJIc-98Lawd1kc=w2400",
+      "preview": "The newest clothing line by Black Rifle", 
+      "description":
+      ["Fresh of of losing the equivilent of a whole person, Jarred Taylor is proud to present his newest clothing line series.",
+       "JT's Fat Clothes is expression of sloth, gluttuny, and being the life of the party.",
+       "Can you eat a fourth serving"," Did someone just challenge you to chug a bottle of mustard"," Don't wait dress for the job you want today!"]
 		
-	  },
-	  {
-	    "id": 3,
-	    "name": "Starship Troopers: The Logan Stark Reboot",
-	    "price": 20,
-	    "productImage": "https://lh4.googleusercontent.com/u-cT25TQi2tXKzAloPPxWi-bMkDjDlZFhB0OhwPo_qssY1cPpx9zXQWLKm8a3AQAeQQ=w2400",
-	    "preview": "Would you like to know more", 
-	    "description": "Coming soon from a guy who has nothing left of his ipo money4. It’s Logan’s Stark’s "
-	  }
+       },
+      {
+       "id": 3,
+       "name": "Starship Troopers: The Logan Stark Reboot",
+       "price": 20,
+       "productImage": "https://lh4.googleusercontent.com/u-cT25TQi2tXKzAloPPxWi-bMkDjDlZFhB0OhwPo_qssY1cPpx9zXQWLKm8a3AQAeQQ=w2400",
+       "preview": "Would you like to know more", 
+       "description": "Coming soon from a guy who has nothing left of his ipo money4. It’s Logan’s Stark’s "
+  }
 	
 	]
       }
