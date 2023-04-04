@@ -4,7 +4,7 @@
  "products": [
     {
      "id": 1,
-     "name": "product 1",
+     "name": "Whiskey Subscription Plan",
      "price": 69,
      "productImage": "https://lh5.googleusercontent.com/wtDyETV2XZBpRjpExK4oLAIoYcCP6AUTGL7Id0dycl8v3oFwaLR9Ei0FDqcxiVFdy2A=w2400",
      "preview": "A true coffee collectors item",
@@ -15,7 +15,7 @@
      },
      {
       "id": 2,
-      "name": "JT's Fat Clothes ",
+      "name": "Coffee Subscription Plan ",
       "price": 34,
       "productImage": "https://lh6.googleusercontent.com/SggSfdd2rTlel_3s_04aUogHmVoH_TrvZB2d3cziNY2cxgWBdZiqthJIc-98Lawd1kc=w2400",
       "preview": "Come see the newest clothing line by Black Rifle", 
@@ -29,7 +29,7 @@
        },
       {
        "id": 3,
-       "name": "Starship Troopers: The Logan Stark Reboot",
+       "name": "Coffee and Whiskey Subscription plan",
        "price": 20,
        "productImage": "https://lh4.googleusercontent.com/u-cT25TQi2tXKzAloPPxWi-bMkDjDlZFhB0OhwPo_qssY1cPpx9zXQWLKm8a3AQAeQQ=w2400",
        "preview": "Would you like to know more", 
